@@ -2,7 +2,7 @@
 //  EcommerceUITests.swift
 //  EcommerceUITests
 //
-//  Created by qbuser on 06/02/22.
+//  Created by Vk on 06/02/22.
 //
 
 import XCTest
